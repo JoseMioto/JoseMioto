@@ -1,4 +1,4 @@
-### Eae, i am José Eduardo👋
+### Eae, i'm José Eduardo👋
 
 <div>
   <a href="https://github.com/JoseMioto">
